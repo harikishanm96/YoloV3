@@ -6,7 +6,6 @@
 ./data/customdata/images/car-8136735_1280.jpg
 ./data/customdata/images/car-8136746_1280.jpg
 ./data/customdata/images/car-8136751_1280.jpg
-./data/customdata/images/car-8307708_1280.png
 ./data/customdata/images/car-racing-4223405_1280.jpg
 ./data/customdata/images/car-racing-6540687_1280.jpg
 ./data/customdata/images/car-racing-7630617_1280.jpg
